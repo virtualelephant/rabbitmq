@@ -1,0 +1,4 @@
+[rabbitmq]
+usa1-2-amqp1.oc.vmware.com ansible_user=deploy
+usa1-2-amqp2.oc.vmware.com ansible_user=deploy
+usa1-2-amqp3.oc.vmware.com ansible_user=deploy
