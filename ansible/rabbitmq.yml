@@ -2,8 +2,6 @@
 - hosts: rabbitmq
   become: true
   become_method: sudo
-  vars:
-    rabbitmq_version: 3.0.2-1
 
   vars_files:
     - rabbitmq-vars.yml
